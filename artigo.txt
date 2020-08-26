@@ -1,7 +1,8 @@
-primeira linha 2
+primeira linha 1
 segunda linha
 
 quarta linha
+veio dos politicos
 do outro paragrafo
 
 frase nova
