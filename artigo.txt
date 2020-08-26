@@ -1,7 +1,9 @@
-primeira linha
+primeira linha 2
 segunda linha
 
 quarta linha
 do outro paragrafo
 
 frase nova
+
+nova frase da master
